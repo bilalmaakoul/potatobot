@@ -130,7 +130,7 @@ def prompt_ai(
         "timezone": time.tzname,
         "ai_models": models,
         "ai_image_model": "Kandinsky 3.0",
-        "owner/dev": "Cyteon",
+        "owner/dev": "Bandana",
         "instance owner/dev ID": os.getenv("OWNER_ID"),
         "support_server": "https://discord.gg/df8eCZDvxB",
         "website": "https://potato.cyteon.tech",
